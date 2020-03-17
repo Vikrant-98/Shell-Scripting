@@ -13,5 +13,5 @@ do
 	fi
 done
 avg=$(echo "scale=2; $val1/$count" | bc )
-echo "Sum is $val1"
+echo "Sum of two dice is $val1"
 echo "Average is $avg"
