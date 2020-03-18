@@ -1,4 +1,4 @@
-#!/bin/bash 
+#!/bin/bash -x
 
 Gamblor=100
 counter1=0
