@@ -1,4 +1,4 @@
-#!/bin/bash 
+#!/bin/bash -x
 
 count=1
 count1=0
