@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -x
 for (( index=0; index < 10; index++ ))
 do
 
